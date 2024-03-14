@@ -1,1 +1,1 @@
-# fakultet
+# OSU_LV
